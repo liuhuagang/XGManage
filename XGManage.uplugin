@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "XG Manage",
+	"Description": "Help users to manage assets and actors",
+	"Category": "XG",
+	"CreatedBy": "XiaoGang",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "XGManage",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
